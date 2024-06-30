@@ -26,9 +26,7 @@ organizations:
     url: https://www.intelimina.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
-
-When not working, I tend to my attention-seeking dogs, upskill with free online courses, and catch up on sleep... that is, until my parents hit the on-call button! As the all-around daughter-on-demand, I juggle tasks with a smile. My parents, in their 80s, keep me on my toes —- mentally and physically matching my every step all the way.
+bio: When not working, I tend to my attention-seeking dogs, upskill with free online courses, and catch up on sleep... that is, until my parents hit the on-call button! As the all-around daughter-on-demand, I juggle tasks with a smile. My parents, in their 80s, keep me on my toes —- mentally and physically matching my every step all the way.
 
 
 # Social Networking
